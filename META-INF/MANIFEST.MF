@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/build.prop
+SHA1-Digest: W+yOJ9yuV19bXuUe4LXgKcoWDhk=
+
+Name: system/app/Conversations.apk
+SHA1-Digest: 5r03EezCYIcRjOMZjO7GOVQ2znM=
+
+Name: META-INF/com/google/android/update-script
+SHA1-Digest: ANgbG3XL6P8Ubg4bndYi8Zb3D8E=
+
+Name: system/framework/android.policy.jar
+SHA1-Digest: 74sCtDEHrrTXTwCdgM1cQiV0ks0=
+
+Name: system/app/Phonebook.apk
+SHA1-Digest: 2txKT2qfY8od4cduUuOVGzolq2I=
+
+Name: system/framework/framework.jar
+SHA1-Digest: 9BK3OjXPzT5zb25b5zMUcuRgljg=
+
+Name: system/framework/framework-res.apk
+SHA1-Digest: b/80S8+TGyEyVWo8gIv/JEbM8jA=
+
+Name: system/app/SemcPhone.apk
+SHA1-Digest: wc8EFr8OCCuRM3YFcepLKmHPII0=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest: yoHu85I0FGbV1LsUaYLgw/j6SsA=
+
+Name: system/app/FriendPivotLargeUI.apk
+SHA1-Digest: JO9LHStvkOjpu4ZDy6FXV4Guj3k=
+

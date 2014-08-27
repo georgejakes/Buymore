@@ -1,0 +1,173 @@
+@font-face
+{
+	font-family: buymore;
+	src: url('fonts/DroidSans.ttf');
+}
+
+#errortext
+{
+	font-family: buymore;
+	margin-left: 200px;
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	margin-top: 10em;
+}
+
+#sidebar
+{
+	position: absolute;
+	width: 100%;
+	height: 110%;
+	margin-left: 100%;
+	background-color: #7514B5;
+	margin-top: -5%;
+	transition: all 1s linear;
+	
+}
+
+#sidesignin
+{
+	background-color: #7514B5;
+}
+
+#sidebar table
+{
+	position: absolute;
+	margin-top: 20em;
+	margin-left: 10em; 
+}
+
+#sidebar input[type="submit"]
+{
+	width: 100px;
+	height: 50px;
+	margin-left: 13em;
+	margin-top: 50em;
+	background-color:#C934AE;
+	border: 1px solid black;
+	font-family: buymore;
+	color: white;
+	
+	
+}
+
+#bmain p
+{
+	position: relative;
+	color: white;
+	font-family: buymore;
+	font-size: 4em;
+	margin-top: 5px;
+	text-align: center;
+	text-shadow: 0px 0px 20px black;
+}
+
+
+	
+.usertext
+{
+	font-size: 3em;
+	font-family: buymore;
+	color: white;
+}
+
+.input
+{
+	width: 300px;
+	height: 40px;
+	border-radius: 10px;
+	font-size: 1.5em;
+	padding: 10px;
+	font-family: buymore;
+}
+
+
+
+#leftbar input[type="submit"]
+{
+	width: 100px;
+	height: 50px;
+	background-color:#C934AE;
+	border: 1px solid black;
+	font-family: buymore;
+	color: white;
+	
+	
+}
+
+#home
+{
+	background-color: #BA416A;
+	overflow: hidden;
+}
+
+#bmain
+{
+	position: absolute;
+	background-color: #A8395E;
+	height: 100px;
+	width: 300px;
+	border: 1px solid black;
+	box-shadow: 0px 0px 10px black;
+	margin-left: 50em;
+	opacity: 1;
+	transition: all 0.5s linear;
+	
+}
+
+#leftbar table
+{
+	
+	margin-left:71%;
+	margin-top: 5%;
+	font-family: buymore;
+
+	
+}
+
+.signtext
+{
+	font-size: 2em;
+	font-family: buymore;
+	color: white;
+}
+
+
+
+#leftbar
+{
+	position: absolute;
+	width: 100%;
+	height: 110%;
+	background-color: #3ABA36;
+	margin-top: -5%;
+	margin-left: -101%;
+	transition: all 1s linear;
+	
+}
+
+#centerbox
+{
+	margin-left: auto;
+	margin-right:auto;
+	background-color: #611791;
+	height: 53%;
+	width: 30%;
+	margin-top:10%;
+	border-radius: 10px;
+	padding: 50px;
+	
+	
+}
+
+#sub
+{
+    width: 100px;
+	height: 50px;
+	background-color:#C934AE;
+	border: 1px solid black;
+	font-family: buymore;
+	color: white;
+}
+
